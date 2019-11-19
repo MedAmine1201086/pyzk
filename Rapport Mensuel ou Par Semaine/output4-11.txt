@@ -1,0 +1,71 @@
+
+                              ++++++ Rapport 4-11 November 2019 ++++++                              
++----------------+-------------+---------------------+--------------------+------------+------------------+--------------+
+|   Ouvrier(e)   | Nbr Absence |     Jours Absent    |   Type d'Absence   | Nbr Retard | Nbr Heurs Retard | Jours Retard |
++----------------+-------------+---------------------+--------------------+------------+------------------+--------------+
+|    Khalifa     |      0      |                     |                    |     0      |     0:00:00      |              |
+|     Saleh      |      6      |   Lundi 2019-11-04  |       Absent       |     0      |     0:00:00      |              |
+|                |             |   Mardi 2019-11-05  |       Absent       |            |                  |              |
+|                |             | Mercredi 2019-11-06 |       Absent       |            |                  |              |
+|                |             |   Jeudi 2019-11-07  |       Absent       |            |                  |              |
+|                |             | Vendredi 2019-11-08 |       Absent       |            |                  |              |
+|                |             |  Samedi 2019-11-09  |       Absent       |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|      Ali       |      1      |   Lundi 2019-11-04  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |                     |                    |            |                  |              |
+|     Rihab      |      0      |                     |                    |     0      |     0:00:00      |              |
+|    MedHedi     |      0      |                     |                    |     0      |     0:00:00      |              |
+|     Aymen      |      5      |   Lundi 2019-11-04  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             | Mercredi 2019-11-06 | Manque du pointage |            |                  |              |
+|                |             |   Jeudi 2019-11-07  | Manque du pointage |            |                  |              |
+|                |             | Vendredi 2019-11-08 | Manque du pointage |            |                  |              |
+|                |             |  Samedi 2019-11-09  |       Absent       |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|     Marwen     |      2      | Vendredi 2019-11-08 | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |  Samedi 2019-11-09  |       Absent       |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|    Mounira     |      2      |   Mardi 2019-11-05  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |   Jeudi 2019-11-07  | Manque du pointage |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|     Lazher     |      2      |   Lundi 2019-11-04  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |   Mardi 2019-11-05  |       Absent       |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|     Ramzi      |      0      |                     |                    |     0      |     0:00:00      |              |
+|    Sofiene     |      1      |   Lundi 2019-11-04  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |                     |                    |            |                  |              |
+|    Narjess     |      0      |                     |                    |     0      |     0:00:00      |              |
+|     Sedki      |      2      |   Lundi 2019-11-04  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |   Jeudi 2019-11-07  | Manque du pointage |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|     Habiba     |      1      |   Mardi 2019-11-05  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |                     |                    |            |                  |              |
+|     Bilel      |      3      |   Mardi 2019-11-05  |       Absent       |     0      |     0:00:00      |              |
+|                |             | Vendredi 2019-11-08 |       Absent       |            |                  |              |
+|                |             |  Samedi 2019-11-09  |       Absent       |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|     Taher      |      0      |                     |                    |     0      |     0:00:00      |              |
+|  AmineBenAfia  |      6      |   Lundi 2019-11-04  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |   Mardi 2019-11-05  |       Absent       |            |                  |              |
+|                |             | Mercredi 2019-11-06 |       Absent       |            |                  |              |
+|                |             |   Jeudi 2019-11-07  |       Absent       |            |                  |              |
+|                |             | Vendredi 2019-11-08 |       Absent       |            |                  |              |
+|                |             |  Samedi 2019-11-09  |       Absent       |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+| ChokriChakroun |      5      |   Mardi 2019-11-05  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             | Mercredi 2019-11-06 | Manque du pointage |            |                  |              |
+|                |             |   Jeudi 2019-11-07  | Manque du pointage |            |                  |              |
+|                |             | Vendredi 2019-11-08 | Manque du pointage |            |                  |              |
+|                |             |  Samedi 2019-11-09  |       Absent       |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|  ChokriBrahem  |      3      |   Lundi 2019-11-04  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             | Mercredi 2019-11-06 | Manque du pointage |            |                  |              |
+|                |             |  Samedi 2019-11-09  |       Absent       |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|    MedAmeur    |      2      |   Jeudi 2019-11-07  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |  Samedi 2019-11-09  |       Absent       |            |                  |              |
+|                |             |                     |                    |            |                  |              |
+|    Ikhlass     |      1      |   Lundi 2019-11-04  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |                     |                    |            |                  |              |
+|     Faiza      |      1      |   Lundi 2019-11-04  | Manque du pointage |     0      |     0:00:00      |              |
+|                |             |                     |                    |            |                  |              |
++----------------+-------------+---------------------+--------------------+------------+------------------+--------------+

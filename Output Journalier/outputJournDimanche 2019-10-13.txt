@@ -1,0 +1,26 @@
+++++++ Rapport Journalier Dimanche 2019-10-13++++++
++----------------+------------+
+|   Ouvrier(e)   | Attendance |
++----------------+------------+
+|    Khalifa     |     []     |
+|     Saleh      |     []     |
+|      Ali       |     []     |
+|     Rihab      |     []     |
+|    MedHedi     |     []     |
+|     Aymen      |     []     |
+|     Marwen     |     []     |
+|    Mounira     |     []     |
+|     Lazher     |     []     |
+|     Ramzi      |     []     |
+|    Sofiene     |     []     |
+|    Narjess     |     []     |
+|     Sedki      |     []     |
+|     Habiba     |     []     |
+|     Bilel      |     []     |
+|     Taher      |     []     |
+|  AmineBenAfia  |     []     |
+| ChokriChakroun |     []     |
+|  ChokriBrahem  |     []     |
+|    MedAmeur    |     []     |
+|    Ikhlass     |     []     |
++----------------+------------+

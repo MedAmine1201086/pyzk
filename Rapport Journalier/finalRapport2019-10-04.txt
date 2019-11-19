@@ -1,0 +1,131 @@
+*****************Attendance of Vendredi 2019-10-04*****************
+++++++++Khalifa attendance during this day is: 
+['<Attendance>:', 'Khalifa', ':', '2019-10-04', '08:18:57']
+['<Attendance>:', 'Khalifa', ':', '2019-10-04', '14:06:22']
+['<Attendance>:', 'Khalifa', ':', '2019-10-04', '15:31:53']
+['<Attendance>:', 'Khalifa', ':', '2019-10-04', '17:31:27']
+More than 1 hour lunch --> 1:25:00
+Worked Hours: 7:48:00 Plus Hours: 0:00:00 Minus hours: 0:12:00
+++++++++Saleh attendance during this day is: 
+['<Attendance>:', 'Saleh', ':', '2019-10-04', '08:31:30']
+['<Attendance>:', 'Saleh', ':', '2019-10-04', '14:29:04']
+['<Attendance>:', 'Saleh', ':', '2019-10-04', '15:32:31']
+['<Attendance>:', 'Saleh', ':', '2019-10-04', '17:30:23']
+More than 1 hour lunch --> 1:03:00
+Worked Hours: 7:56:00 Plus Hours: 0:00:00 Minus hours: 0:04:00
+++++++++Ali attendance during this day is: 
+['<Attendance>:', 'Ali', ':', '2019-10-04', '08:33:15']
+['<Attendance>:', 'Ali', ':', '2019-10-04', '15:03:06']
+['<Attendance>:', 'Ali', ':', '2019-10-04', '16:34:53']
+['<Attendance>:', 'Ali', ':', '2019-10-04', '17:34:36']
+More than 1 hour lunch --> 1:31:00
+Worked Hours: 7:30:00 Plus Hours: 0:00:00 Minus hours: 0:30:00
+++++++++Rihab attendance during this day is: 
+['<Attendance>:', 'Rihab', ':', '2019-10-04', '08:21:54']
+['<Attendance>:', 'Rihab', ':', '2019-10-04', '14:05:27']
+['<Attendance>:', 'Rihab', ':', '2019-10-04', '14:23:04']
+['<Attendance>:', 'Rihab', ':', '2019-10-04', '17:32:00']
+Worked Hours: 8:53:00 Plus Hours: 0:53:00 Minus hours: 0:00:00
+++++++++MedHedi attendance during this day is: 
+['<Attendance>:', 'MedHedi', ':', '2019-10-04', '08:24:15']
+['<Attendance>:', 'MedHedi', ':', '2019-10-04', '12:28:06']
+['<Attendance>:', 'MedHedi', ':', '2019-10-04', '14:12:29']
+['<Attendance>:', 'MedHedi', ':', '2019-10-04', '17:30:41']
+More than 1 hour lunch --> 1:44:00
+Worked Hours: 7:22:00 Plus Hours: 0:00:00 Minus hours: 0:38:00
+++++++++Aymen attendance during this day is: 
+['<Attendance>:', 'Aymen', ':', '2019-10-04', '08:34:25']
+['<Attendance>:', 'Aymen', ':', '2019-10-04', '15:03:04']
+['<Attendance>:', 'Aymen', ':', '2019-10-04', '16:35:42']
+['<Attendance>:', 'Aymen', ':', '2019-10-04', '17:35:24']
+More than 1 hour lunch --> 1:32:00
+Worked Hours: 7:29:00 Plus Hours: 0:00:00 Minus hours: 0:31:00
+++++++++Marwen attendance during this day is: 
+['<Attendance>:', 'Marwen', ':', '2019-10-04', '08:33:01']
+['<Attendance>:', 'Marwen', ':', '2019-10-04', '12:00:00']
+['<Attendance>:', 'Marwen', ':', '2019-10-04', '13:00:00']
+['<Attendance>:', 'Marwen', ':', '2019-10-04', '17:30:54']
+Worked Hours: 7:57:00 Plus Hours: 0:00:00 Minus hours: 0:03:00
+++++++++Mounira attendance during this day is: 
+['<Attendance>:', 'Mounira', ':', '2019-10-04', '08:41:44']
+['<Attendance>:', 'Mounira', ':', '2019-10-04', '12:00:00']
+['<Attendance>:', 'Mounira', ':', '2019-10-04', '13:00:00']
+['<Attendance>:', 'Mounira', ':', '2019-10-04', '17:35:18']
+Worked Hours: 7:54:00 Plus Hours: 0:00:00 Minus hours: 0:06:00
+++++++++Lazher attendance during this day is: 
+['<Attendance>:', 'Lazher', ':', '2019-10-04', '08:18:36']
+['<Attendance>:', 'Lazher', ':', '2019-10-04', '14:11:28']
+['<Attendance>:', 'Lazher', ':', '2019-10-04', '15:21:22']
+['<Attendance>:', 'Lazher', ':', '2019-10-04', '17:06:59']
+More than 1 hour lunch --> 1:10:00
+Worked Hours: 7:38:00 Plus Hours: 0:00:00 Minus hours: 0:22:00
+++++++++Ramzi attendance during this day is: 
+['<Attendance>:', 'Ramzi', ':', '2019-10-04', '08:33:29']
+['<Attendance>:', 'Ramzi', ':', '2019-10-04', '13:03:08']
+['<Attendance>:', 'Ramzi', ':', '2019-10-04', '14:32:21']
+['<Attendance>:', 'Ramzi', ':', '2019-10-04', '17:33:06']
+More than 1 hour lunch --> 1:29:00
+Worked Hours: 7:31:00 Plus Hours: 0:00:00 Minus hours: 0:29:00
+++++++++Sofiene attendance during this day is: 
+['<Attendance>:', 'Sofiene', ':', '2019-10-04', '08:28:45']
+['<Attendance>:', 'Sofiene', ':', '2019-10-04', '12:28:50']
+['<Attendance>:', 'Sofiene', ':', '2019-10-04', '17:33:19']
+Sofiene is ABSENT today!
+Worked Hours: 4:00:00 Plus Hours: 0:00:00 Minus hours: 4:00:00
+++++++++Narjess attendance during this day is: 
+['<Attendance>:', 'Narjess', ':', '2019-10-04', '08:35:17']
+['<Attendance>:', 'Narjess', ':', '2019-10-04', '12:30:25']
+['<Attendance>:', 'Narjess', ':', '2019-10-04', '14:49:12']
+['<Attendance>:', 'Narjess', ':', '2019-10-04', '17:31:52']
+More than 1 hour lunch --> 2:19:00
+Worked Hours: 6:37:00 Plus Hours: 0:00:00 Minus hours: 1:23:00
+++++++++Sedki attendance during this day is: 
+['<Attendance>:', 'Sedki', ':', '2019-10-04', '08:32:54']
+['<Attendance>:', 'Sedki', ':', '2019-10-04', '12:51:43']
+['<Attendance>:', 'Sedki', ':', '2019-10-04', '14:31:25']
+['<Attendance>:', 'Sedki', ':', '2019-10-04', '17:31:19']
+More than 1 hour lunch --> 1:40:00
+Worked Hours: 7:19:00 Plus Hours: 0:00:00 Minus hours: 0:41:00
+++++++++Habiba attendance during this day is: 
+['<Attendance>:', 'Habiba', ':', '2019-10-04', '08:28:05']
+['<Attendance>:', 'Habiba', ':', '2019-10-04', '12:47:15']
+More than 1 hour lunch --> 1:40:00
+Worked Hours: 4:19:00 Plus Hours: 0:00:00 Minus hours: 3:41:00
+++++++++Bilel attendance during this day is: 
+Bilel is ABSENT today!
+++++++++Taher attendance during this day is: 
+['<Attendance>:', 'Taher', ':', '2019-10-04', '09:03:34']
+['<Attendance>:', 'Taher', ':', '2019-10-04', '12:00:00']
+['<Attendance>:', 'Taher', ':', '2019-10-04', '13:00:00']
+['<Attendance>:', 'Taher', ':', '2019-10-04', '17:34:16']
+RETARD: 0:18:00
+Worked Hours: 7:31:00 Plus Hours: 0:00:00 Minus hours: 0:29:00
+++++++++AmineBenAfia attendance during this day is: 
+['<Attendance>:', 'AmineBenAfia', ':', '2019-10-04', '08:32:51']
+['<Attendance>:', 'AmineBenAfia', ':', '2019-10-04', '12:00:00']
+['<Attendance>:', 'AmineBenAfia', ':', '2019-10-04', '13:00:00']
+['<Attendance>:', 'AmineBenAfia', ':', '2019-10-04', '17:35:41']
+Worked Hours: 8:03:00 Plus Hours: 0:03:00 Minus hours: 0:00:00
+++++++++ChokriChakroun attendance during this day is: 
+['<Attendance>:', 'ChokriChakroun', ':', '2019-10-04', '08:22:13']
+ChokriChakroun is ABSENT today!
+++++++++ChokriBrahem attendance during this day is: 
+['<Attendance>:', 'ChokriBrahem', ':', '2019-10-04', '08:30:45']
+['<Attendance>:', 'ChokriBrahem', ':', '2019-10-04', '14:22:56']
+['<Attendance>:', 'ChokriBrahem', ':', '2019-10-04', '15:49:00']
+['<Attendance>:', 'ChokriBrahem', ':', '2019-10-04', '17:30:39']
+More than 1 hour lunch --> 1:27:00
+Worked Hours: 7:33:00 Plus Hours: 0:00:00 Minus hours: 0:27:00
+++++++++MedAmeur attendance during this day is: 
+['<Attendance>:', 'MedAmeur', ':', '2019-10-04', '08:28:39']
+['<Attendance>:', 'MedAmeur', ':', '2019-10-04', '12:29:37']
+['<Attendance>:', 'MedAmeur', ':', '2019-10-04', '17:33:22']
+MedAmeur is ABSENT today!
+Worked Hours: 4:01:00 Plus Hours: 0:00:00 Minus hours: 3:59:00
+++++++++Ikhlass attendance during this day is: 
+['<Attendance>:', 'Ikhlass', ':', '2019-10-04', '08:32:11']
+['<Attendance>:', 'Ikhlass', ':', '2019-10-04', '09:26:40']
+['<Attendance>:', 'Ikhlass', ':', '2019-10-04', '11:37:46']
+['<Attendance>:', 'Ikhlass', ':', '2019-10-04', '17:31:04']
+More than 1 hour lunch --> 2:11:00
+Worked Hours: 6:48:00 Plus Hours: 0:00:00 Minus hours: 1:12:00
